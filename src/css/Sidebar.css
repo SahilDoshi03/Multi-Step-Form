@@ -1,0 +1,25 @@
+.sidebar{
+    min-height: 10rem;
+    background-image: url(../assets/images/bg-sidebar-mobile.svg);
+    background-size: cover;
+}
+
+.form-nav-list{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.form-nav-items{
+    display: grid;
+    place-items: center;
+    width: 2rem;
+    aspect-ratio: 1;
+    margin-top: 2.5rem;
+    color: white;
+    background-color: transparent;
+    border-radius: 100%;
+    border: 1px solid white;
+}

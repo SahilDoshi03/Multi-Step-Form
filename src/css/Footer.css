@@ -1,0 +1,19 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    min-height: 3rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.footer > .goBack-btn{
+    position: absolute;
+    left: 1.5rem;
+}
+
+.footer > .nextStep-btn{
+    position: absolute;
+    right: 1.5rem;
+}
