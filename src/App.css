@@ -1,5 +1,5 @@
 .app{
-    display: grid;
+    min-height: 100vh;
     background-color: hsl(217, 100%, 97%);
 }
 
